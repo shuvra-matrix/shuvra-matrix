@@ -46,16 +46,11 @@
 
 ![IMG](https://i.imgur.com/tABin5L.gif)
 
-<P align="center" style="font-size: 2rem; color : orange">
+<P align="center" style="font-size: 2rem ; color : orange">
 TOOLS 👨‍💻 🛠</P>
 
 <p align="center">
 
-<img src="./icons/Bootstrap.svg" alt="HTML" width="40" hight="50">
-<img src="./icons/VSCode-Dark.svg" alt="HTML" width="40" hight="50">
-<img src="./icons/Git.svg" alt="HTML" width="40" hight="50">
-<img src="./icons/Github-Dark.svg" alt="HTML" width="40" hight="50">
-<img src="./icons/Figma-Dark.svg" alt="HTML" width="40" hight="50">
 <img src="./icons/Bootstrap.svg" alt="HTML" width="40" hight="50">
 <img src="./icons/VSCode-Dark.svg" alt="HTML" width="40" hight="50">
 <img src="./icons/Git.svg" alt="HTML" width="40" hight="50">
