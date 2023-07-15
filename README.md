@@ -66,7 +66,7 @@ TOOLS 👨‍💻 🛠</P>
 
 ![IMG](https://i.imgur.com/xr38EtK.gif)
 
-# About ME 💬 :
+# About ME 💬<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">:
 
 <p aligh="left">  I am Shuvra Chakrabarty. I am interested in Full-stack development, web development, Python development, and ethical hacking.</p>
 <div>
