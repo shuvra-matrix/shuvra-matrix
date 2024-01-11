@@ -95,7 +95,7 @@ TOOLS 👨‍💻 🛠</P>
 
 <img hight="320" width="450" align="right" alt="GIF" src="./images/93195.gif">
 
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+If you want to reach out to me about anything, be it some doubt or just to hangout and talk, just ping me 😉.
 
 <a href="mailto:shuvrachakrabarty97@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="./png/social/gmail.png" />
@@ -105,9 +105,6 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 </br>
 
 </br>
-</a>
-<a href="https://steamcommunity.com/profiles/76561198388765023/">
-  <img align="left" alt="Steam" width="130" hight="100" src="./png/social/steam@2x.png" />
 </a>
  </p>
 
